@@ -11,4 +11,4 @@ a simple HTML + CSS + vanilla JS claw machine game
 * try to align the shadow with a plushie
 * good luck!
 
-✨ all assets made by on Procreate + Figma
+✨ all assets made on Procreate + Figma
